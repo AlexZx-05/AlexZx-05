@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Deepak Sharma (Alex) 👋</h1>
 
-<!--
-**AlexZx-05/AlexZx-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Full Stack Developer | 🌍 Geospatial Analyst | 🚀 ML Enthusiast
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Web+Developer;Geospatial+Data+Engineer;ML+%26+AI+Explorer;Open+Source+Contributor" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+
+- 🔭 I’m currently working on **Crime Mapping, MedConnect, and Satellite Image Classification**
+- 🌱 I’m learning **React, Android (Java), and Geospatial Analysis**
+- 📫 Reach me: **deepaksharma1234@email.com**
+- 🧾 View my [Resume](https://your-resume-link.com)
+
+---
+
+### 🔥 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexZx-05&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexZx-05&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepak-sharma-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome)](https://your-portfolio-link.com)
+

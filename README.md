@@ -4,8 +4,13 @@
   💻 Full Stack Developer | 🌍 Geospatial Analyst | 🚀 ML Enthusiast
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Web+Developer;Geospatial+Data+Engineer;ML+%26+AI+Explorer;Open+Source+Contributor" />
+  <img src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif" alt="developer gif" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=36BCF7&lines=Full+Stack+Web+Developer;Geospatial+Data+Engineer;ML+%26+AI+Explorer;Open+Source+Contributor" />
 </p>
 
 ---
@@ -30,6 +35,9 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepak-sharma-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome)](https://your-portfolio-link.com)
+[![💼 LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepak-sharma-profile)
+[![🌍 Portfolio](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=google-chrome)](https://your-portfolio-link.com)
+[![🐙 GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![🐦 Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+
 

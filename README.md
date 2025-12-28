@@ -19,9 +19,9 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/YOUR_GITHUB?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://github.com/AlexZx-05?tab=repositories">
+  <img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
   <a href="https://leetcode.com/u/pinocchio_zx05/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>

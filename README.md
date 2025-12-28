@@ -27,9 +27,10 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 
-  <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
-  </a>
+  <a href="https://github.com/AlexZx-05/AlexZx-05/raw/main/deepak%20resume%20(4).pdf">
+  <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
 
 </p>
 

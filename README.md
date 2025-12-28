@@ -121,9 +121,10 @@ Built Android apps focusing on usability & real-life utility using Java & Fireba
 
 ## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexZx-05&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=AlexZx-05&theme=tokyonight" height="170"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=tokyonight" height="170"/>
@@ -142,13 +143,6 @@ Built Android apps focusing on usability & real-life utility using Java & Fireba
 - GenAI / ML Projects
 - Research & collaborations
 - Freelance / internship opportunities
-
----
-
-### 📫 Let’s Connect
-- 📧 Email: YOUR_EMAIL  
-- 💼 LinkedIn: YOUR_LINKEDIN  
-- 🌍 Portfolio: YOUR_PORTFOLIO  
 
 ---
 

@@ -146,7 +146,7 @@ Built Android apps focusing on usability & real-life utility using Java & Fireba
 
 ---
 
-<p align="center"><i>"Build meaningful things. Learn endlessly. Let your work speak."</i></p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB&color=blueviolet&style=flat-square&label=Profile+Views" />

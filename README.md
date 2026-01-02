@@ -35,7 +35,7 @@
 
 ---
 
-### 🎯 What I’m About
+###  What I’m About
 
 I’m passionate about **AI, Geospatial Analytics, ML, and Full-Stack development**.  
 I love building projects that actually solve real-world problems and help people.

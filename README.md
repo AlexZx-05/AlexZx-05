@@ -132,10 +132,6 @@ Built Android apps focusing on usability & real-life utility using Java & Fireba
 
 ---
 
-### 🌱 Currently Learning
-- Advanced ML & LLM workflows  
-- Geospatial AI & satellite analytics  
-- Production-ready application deployment  
 
 ---
 

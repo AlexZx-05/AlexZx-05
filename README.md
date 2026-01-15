@@ -143,11 +143,11 @@ Machine-learning powered credit risk classification platform
 
 ---
 
-### 🎓 AIMS Connect — Academic Mentorship Platform  
-<a href="https://github.com/USERNAME/AIMS-Connect"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-<a href="https://your-aimsconnect-live-url.com"><img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=flat&logo=netlify&logoColor=white"/></a>
+<h3>🧠 CivicBriefs.ai — Agentic AI for UPSC & News Intelligence 
+<a href="https://github.com/USERNAME/CivicBriefs-AI"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/></a>
+<a href="https://your-civicbriefs-live-url.com"><img src="https://img.shields.io/badge/Live-0A66C2?style=flat&logo=vercel"/></a>
+</h3>
 
-Live academic system used by IIIT Raichur  
 
 
 ---

@@ -125,17 +125,53 @@ If you’re working on something ambitious and need someone who can **design, bu
 </div>
 
 ---
-
 ## 🚀 Flagship Projects
 
-### 🤖 CivicBriefs.AI  
-Agentic LLM system that curates news, links PYQs, generates quizzes, and delivers automated study capsules using FastAPI, LangChain, and OpenAI.
+### 🧠 CivicBriefs.ai — Agentic AI for UPSC & News Intelligence  
+AI-driven current affairs & study automation platform  
 
-### 💳 Loan Risk Intelligence  
-Machine learning system that classifies borrowers into High/Medium/Low risk with a secure FastAPI backend and React dashboard.
+An autonomous LLM-powered system that transforms daily news into personalized study capsules, quizzes, and weekly reports using a multi-agent orchestration pipeline.
 
-### 🎓 AIMS Connect  
-Full-stack academic mentorship platform used by IIIT Raichur students and faculty for mentor discovery and academic navigation.
+**🛠 Tech Stack**  
+Python · FastAPI · LangChain · OpenAI API · SQLModel · APScheduler · ChromaDB · React · Node.js
+
+**✨ Key Features**
+- 🧩 Multi-Agent Architecture — News Agent, Planner, and Orchestrator collaborate to automate content pipelines  
+- 🔎 Semantic Search — Vector-based retrieval for context-aware news and PYQ linking  
+- 🧠 LLM-Based Summarization — Dynamic knowledge capsules and quiz generation  
+- ⏱ Automated Scheduling — Daily & weekly capsules delivered via email  
+- 📊 Personalized Study Plans — Adaptive learning paths based on user progress  
+
+---
+
+### 💳 Loan Risk Intelligence System  
+Machine-learning powered credit risk classification platform  
+
+A secure ML-driven decision system that classifies borrowers into High / Medium / Low risk with full auditability and analytics.
+
+**🛠 Tech Stack**  
+FastAPI · Scikit-Learn · React · JWT · PostgreSQL · Docker
+
+**✨ Key Features**
+- 📈 ML-Based Risk Scoring — Trained classification models for borrower risk  
+- 🔐 Role-Based Access Control — JWT-secured officer and admin dashboards  
+- 📊 Analytics Dashboard — Visual history, alerts, and borrower tracking  
+- 🧩 Production-Grade API — RESTful backend built for deployment  
+
+---
+
+### 🎓 AIMS Connect — Academic Mentorship Platform  
+Live academic system used by IIIT Raichur  
+
+A full-stack platform that improves mentor discovery, faculty navigation, and academic guidance for students.
+
+**🛠 Tech Stack**  
+React · Node.js · MongoDB · Express · Netlify
+
+**✨ Key Features**
+- 🔍 Mentor Matching System — Students find suitable faculty mentors  
+- 📚 Academic Navigation — Centralized access to resources and advisors  
+- 🚀 Deployed for Real Users — Used by IIIT Raichur community  
 
 ---
 

@@ -128,14 +128,14 @@ If you’re working on something ambitious and need someone who can **design, bu
 
 ## 🚀 Flagship Projects
 
-### 🗺️ Crime & Safety Intelligence  
-Geospatial AI for mapping safe vs unsafe zones using city crime data.  
+### 🤖 CivicBriefs.AI  
+Agentic LLM system that curates news, links PYQs, generates quizzes, and delivers automated study capsules using FastAPI, LangChain, and OpenAI.
 
-### 🤖 Agentic AI Systems  
-LLM-powered assistants, RAG pipelines, resume intelligence tools.  
+### 💳 Loan Risk Intelligence  
+Machine learning system that classifies borrowers into High/Medium/Low risk with a secure FastAPI backend and React dashboard.
 
-### 📱 Android Apps  
-Utility-driven mobile applications built with Java & Firebase.
+### 🎓 AIMS Connect  
+Full-stack academic mentorship platform used by IIIT Raichur students and faculty for mentor discovery and academic navigation.
 
 ---
 

@@ -2,8 +2,9 @@
 <h3 align="center">🚀 Agentic AI Engineer | GenAI & LLM Systems | Full-Stack ML Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Building+AI+systems+that+solve+real+world+problems;Turning+data+into+decisions+with+ML+%26+Geospatial+Tech;Learning+fast+%7C+Building+faster+%7C+Shipping+always" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Building+agentic+AI+systems+that+ship+to+production;Designing+LLM+%2B+ML+pipelines+for+real+users;Turning+ideas+into+deployed+software+products" />
 </p>
+
 
 <p align="center">
   <a href="mailto:sharmad7930@gmail.com">

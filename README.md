@@ -149,8 +149,8 @@ Python · FastAPI · LangChain · OpenAI API · SQLModel · APScheduler · Chrom
 ---
 
 <h3>💳 Loan Risk Intelligence System 
-<a href="https://github.com/USERNAME/Loan-Risk-Intelligence"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/></a>
-<a href="https://your-loanrisk-live-url.com"><img src="https://img.shields.io/badge/Live-0A66C2?style=flat&logo=vercel"/></a>
+<a href="https://github.com/AlexZx-05/loan-risk-system.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/></a>
+<a href="https://loan-risk-system.vercel.app/"><img src="https://img.shields.io/badge/Live-0A66C2?style=flat&logo=vercel"/></a>
 </h3>
 
 Machine-learning powered credit risk classification platform  

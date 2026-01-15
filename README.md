@@ -36,20 +36,12 @@ My work sits at the intersection of:
 
 I don’t build demos — I build **deployable systems**.
 
----
-
-## 🎯 Current Focus
-- 🤖 Agentic AI, LLMs, RAG  
-- 🗺️ Geospatial & satellite intelligence  
-- 📊 ML-driven decision systems  
-- 🌐 Full-stack AI products  
-
----
 
 ## ⚡ Tech Stack
 
 <div align="center">
 
+<!-- Languages -->
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -57,31 +49,77 @@ I don’t build demos — I build **deployable systems**.
 
 <br/>
 
+<!-- Frontend & Mobile -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 <br/>
 
+<!-- Backend -->
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
 <br/>
 
+<!-- Databases -->
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <br/>
 
+<!-- APIs & Realtime -->
+<img src="https://img.shields.io/badge/RESTful%20APIs-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge"/>
+
+<br/>
+
+<!-- ML & Data -->
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-FF3D00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-0C4B33?style=for-the-badge"/>
+
+<br/>
+
+<!-- GenAI & Agentic -->
+<img src="https://img.shields.io/badge/Embeddings-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Search-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic%20Systems-4338CA?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-4338CA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-3730A3?style=for-the-badge"/>
+
+<br/>
+
+<!-- DevOps & Tools -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary"/>
+
+<br/>
+
+<!-- CS Core -->
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-1E3A8A?style=for-the-badge"/>
 
 </div>
 

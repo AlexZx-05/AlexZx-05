@@ -128,7 +128,8 @@ If you’re working on something ambitious and need someone who can **design, bu
 ## 🚀 Flagship Projects
 
 ### 🧠 CivicBriefs.ai — Agentic AI for UPSC & News Intelligence  
-[GitHub](https://github.com/USERNAME/CivicBriefs-AI) · [Live](https://your-civicbriefs-live-url.com)  
+<a href="https://github.com/USERNAME/CivicBriefs-AI"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://your-civicbriefs-live-url.com"><img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=flat&logo=vercel&logoColor=white"/></a>
 
 AI-driven current affairs & study automation platform  
 
@@ -137,17 +138,11 @@ An autonomous LLM-powered system that transforms daily news into personalized st
 **🛠 Tech Stack**  
 Python · FastAPI · LangChain · OpenAI API · SQLModel · APScheduler · ChromaDB · React · Node.js
 
-**✨ Key Features**
-- 🧩 Multi-Agent Architecture — News Agent, Planner, and Orchestrator collaborate to automate content pipelines  
-- 🔎 Semantic Search — Vector-based retrieval for context-aware news and PYQ linking  
-- 🧠 LLM-Based Summarization — Dynamic knowledge capsules and quiz generation  
-- ⏱ Automated Scheduling — Daily & weekly capsules delivered via email  
-- 📊 Personalized Study Plans — Adaptive learning paths based on user progress  
-
 ---
 
 ### 💳 Loan Risk Intelligence System  
-[GitHub](https://github.com/USERNAME/Loan-Risk-Intelligence) · [Live](https://your-loanrisk-live-url.com)  
+<a href="https://github.com/USERNAME/Loan-Risk-Intelligence"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://your-loanrisk-live-url.com"><img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=flat&logo=vercel&logoColor=white"/></a>
 
 Machine-learning powered credit risk classification platform  
 
@@ -156,11 +151,19 @@ A secure ML-driven decision system that classifies borrowers into High / Medium 
 **🛠 Tech Stack**  
 FastAPI · Scikit-Learn · React · JWT · PostgreSQL · Docker
 
-**✨ Key Features**
-- 📈 ML-Based Risk Scoring — Trained classification models for borrower risk  
-- 🔐 Role-Based Access Control — JWT-secured officer and admin dashboards  
-- 📊 Analytics Dashboard — Visual history, alerts, and borrower tracking  
-- 🧩 Production-Grade API — RESTful backend built for deployment  
+---
+
+### 🎓 AIMS Connect — Academic Mentorship Platform  
+<a href="https://github.com/USERNAME/AIMS-Connect"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://your-aimsconnect-live-url.com"><img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=flat&logo=netlify&logoColor=white"/></a>
+
+Live academic system used by IIIT Raichur  
+
+A full-stack platform that improves mentor discovery, faculty navigation, and academic guidance for students.
+
+**🛠 Tech Stack**  
+React · Node.js · MongoDB · Express · Netlify
+ 
 
 ---
 

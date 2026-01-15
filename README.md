@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Deepak 👋</h1>
-<h3 align="center">🚀 GenAI Engineer | 🧠 ML & Data Science | 🌍 Geospatial Intelligence</h3>
+<h3 align="center">🚀 Agentic AI Engineer | GenAI & LLM Systems | Full-Stack ML Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Building+AI+systems+that+solve+real+world+problems;Turning+data+into+decisions+with+ML+%26+Geospatial+Tech;Learning+fast+%7C+Building+faster+%7C+Shipping+always" />

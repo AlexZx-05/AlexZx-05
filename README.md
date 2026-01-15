@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Deepak 👋</h1>
-<h3 align="center">🚀 GenAI Enthusiast | 🧠 ML & Data Science Learner | 🌍 Geospatial Tech Explorer</h3>
+<h3 align="center">🚀 GenAI Enthusiast | 🧠 ML & Data Science Learner | 🌍 Geospatial TechExplorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=650&lines=Turning+data+into+meaningful+insights;Building+intelligent+apps+that+solve+real+problems;Learning%2C+Experimenting+%26+Shipping+projects" />

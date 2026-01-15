@@ -139,14 +139,6 @@ Utility-driven mobile applications built with Java & Firebase.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexZx-05&show_icons=true&theme=tokyonight"/>
-  <img src="https://streak-stats.demolab.com?user=AlexZx-05&theme=tokyonight"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=AlexZx-05&show_icons=true&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=AlexZx-05&theme=tokyonight"/>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlexZx-05&color=blueviolet&style=flat-square"/>
-</p>

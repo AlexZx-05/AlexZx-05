@@ -128,6 +128,8 @@ If you’re working on something ambitious and need someone who can **design, bu
 ## 🚀 Flagship Projects
 
 ### 🧠 CivicBriefs.ai — Agentic AI for UPSC & News Intelligence  
+[GitHub](https://github.com/USERNAME/CivicBriefs-AI) · [Live](https://your-civicbriefs-live-url.com)  
+
 AI-driven current affairs & study automation platform  
 
 An autonomous LLM-powered system that transforms daily news into personalized study capsules, quizzes, and weekly reports using a multi-agent orchestration pipeline.
@@ -145,6 +147,8 @@ Python · FastAPI · LangChain · OpenAI API · SQLModel · APScheduler · Chrom
 ---
 
 ### 💳 Loan Risk Intelligence System  
+[GitHub](https://github.com/USERNAME/Loan-Risk-Intelligence) · [Live](https://your-loanrisk-live-url.com)  
+
 Machine-learning powered credit risk classification platform  
 
 A secure ML-driven decision system that classifies borrowers into High / Medium / Low risk with full auditability and analytics.
@@ -161,6 +165,8 @@ FastAPI · Scikit-Learn · React · JWT · PostgreSQL · Docker
 ---
 
 ### 🎓 AIMS Connect — Academic Mentorship Platform  
+[GitHub](https://github.com/USERNAME/AIMS-Connect) · [Live](https://your-aimsconnect-live-url.com)  
+
 Live academic system used by IIIT Raichur  
 
 A full-stack platform that improves mentor discovery, faculty navigation, and academic guidance for students.

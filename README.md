@@ -26,15 +26,15 @@
 ---
 
 ## 🚀 About Me
-I am a **final-year Computer Science student** building **AI-powered, data-driven applications** that solve **real-world problems**.
 
-My work sits at the intersection of:
-- **GenAI & LLMs**
-- **Machine Learning & Data Science**
-- **Geospatial & Satellite Intelligence**
-- **Full-Stack Engineering**
+I’m a **B.Tech Computer Science student at IIIT Raichur (Class of 2026)** focused on **engineering real, working software — not just academic projects**.
 
-I don’t build demos — I build **deployable systems**.
+I build **machine learning systems, agentic AI pipelines, and full-stack applications** that move from idea to **production-ready deployments**. My work is centered on making AI **useful, reliable, and integrated into real-world workflows**, not just demos.
+
+I actively look for **internships, research, and engineering projects** where I can contribute to **AI-powered products, scalable web systems, and intelligent automation**.
+
+If you’re working on something ambitious and need someone who can **design, build, and ship**, let’s talk.
+
 
 
 ## ⚡ Tech Stack

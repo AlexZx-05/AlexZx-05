@@ -127,7 +127,7 @@ If you’re working on something ambitious and need someone who can **design, bu
 ---
 ## 🚀 Flagship Projects
 
-<h3>🧠 CivicBriefs.ai — Agentic AI for UPSC & News Intelligence 
+<h3>CivicBriefs.ai — Agentic AI for UPSC & News Intelligence 
 <a href="https://github.com/AlexZx-05/CivicBriefs.ai.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/></a>
 <a href="https://web-production-84bd9.up.railway.app"><img src="https://img.shields.io/badge/Live-0A66C2?style=flat&logo=vercel"/></a>
 </h3>

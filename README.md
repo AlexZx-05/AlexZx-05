@@ -148,23 +148,26 @@ Python · FastAPI · LangChain · OpenAI API · SQLModel · APScheduler · Chrom
 
 ---
 
-<h3>💳 Loan Risk Intelligence System 
-<a href="https://github.com/AlexZx-05/loan-risk-system.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/></a>
-<a href="https://loan-risk-system.vercel.app/"><img src="https://img.shields.io/badge/Live-0A66C2?style=flat&logo=vercel"/></a>
+<h3>🏡 Land Registry DApp 
+<a href="https://github.com/AlexZx-05/land-registry-dapp.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/></a>
+<a href="https://drive.google.com/file/d/1RMH0Tw_7PXsU0pHkg0WWPc3GfsWt8tFk/view?usp=sharing"><img src="https://img.shields.io/badge/Demo_Video-0A66C2?style=flat&logo=google-drive&logoColor=white"/></a>
 </h3>
 
-Machine-learning powered credit risk classification platform  
+Blockchain-powered property registration and ownership transfer platform  
 
-A secure ML-driven decision system that classifies borrowers into High / Medium / Low risk with full auditability and analytics.
+A production-style decentralized application that enables secure land registration, multi-level government verification, transparent ownership transfer, and fraud-risk monitoring using blockchain and AI-assisted validation.
 
 **🛠 Tech Stack**  
-FastAPI · Scikit-Learn · React · JWT · PostgreSQL · Docker
+React · Vite · Node.js · Express · MongoDB · Solidity · Hardhat · OpenZeppelin · Ethers.js · Python · Scikit-Learn
 
 **✨ Key Features**
-- 📈 ML-Based Risk Scoring — Trained classification models for borrower risk  
-- 🔐 Role-Based Access Control — JWT-secured officer and admin dashboards  
-- 📊 Analytics Dashboard — Visual history, alerts, and borrower tracking  
-- 🧩 Production-Grade API — RESTful backend built for deployment  
+- 🏠 NFT-Based Property Registration — Land parcels represented as on-chain digital assets  
+- 🧾 Multi-Level Government Verification — Approval workflow across tehsildar → SDM → collector  
+- 🔄 Secure Ownership Transfer — Transparent blockchain-based transfer lifecycle  
+- 📊 Dashboard & Property Timeline — Track approvals, ownership history, and parcel activity  
+- 🤖 AI Fraud-Risk Detection — IsolationForest-powered anomaly analysis for suspicious transactions  
+- 🔐 Wallet Integration — MetaMask-enabled blockchain interaction and signing  
+- 🧩 Production-Style Architecture — Modular frontend, backend, blockchain, and AI services  
 
 ---
 

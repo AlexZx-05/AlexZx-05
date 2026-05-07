@@ -123,7 +123,7 @@ If you’re working on something ambitious and need someone who can **design, bu
 <img src="https://img.shields.io/badge/DBMS-1E3A8A?style=for-the-badge"/>
 
 </div>
----
+
 ## 🚀 Flagship Projects
 
 <h3>CivicBriefs.ai — Agentic AI for UPSC & News Intelligence 

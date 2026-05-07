@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a **B.Tech Computer Science student at IIIT Raichur (Class of 2026)** focused on **engineering real, working software — not just academic projects**.
 
@@ -38,7 +38,7 @@ If you’re working on something ambitious and need someone who can **design, bu
 
 
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -124,7 +124,7 @@ If you’re working on something ambitious and need someone who can **design, bu
 
 </div>
 
-## 🚀 Flagship Projects
+## Flagship Projects
 
 <h3>CivicBriefs.ai — Agentic AI for UPSC & News Intelligence 
 <a href="https://github.com/AlexZx-05/CivicBriefs.ai.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/></a>

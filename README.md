@@ -40,90 +40,103 @@ If you’re working on something ambitious and need someone who can **design, bu
 
 ## ⚡ Tech Stack
 
+<h2 align="center">⚡ Tech Stack & Tools</h2>
+
 <div align="center">
 
 <!-- Languages -->
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<h3>💻 Languages</h3>
 
-<br/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-283593?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-<!-- Frontend & Mobile -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<br/><br/>
 
-<br/>
+<!-- Frontend -->
+<h3>🎨 Frontend & Mobile</h3>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+
+<br/><br/>
 
 <!-- Backend -->
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<h3>⚙️ Backend & APIs</h3>
 
-<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/WebSockets-111827?style=flat-square"/>
 
-<!-- Databases -->
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<br/><br/>
 
-<br/>
+<!-- Database -->
+<h3>🗄️ Database</h3>
 
-<!-- APIs & Realtime -->
-<img src="https://img.shields.io/badge/RESTful%20APIs-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
-<!-- ML & Data -->
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF3D00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-0C4B33?style=for-the-badge"/>
+<!-- AI -->
+<h3>🤖 AI / ML</h3>
 
-<br/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep_Learning-FF3D00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-0C4B33?style=flat-square"/>
 
-<!-- GenAI & Agentic -->
-<img src="https://img.shields.io/badge/Embeddings-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector%20Search-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-5B21B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic%20Systems-4338CA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-3730A3?style=for-the-badge"/>
+<br/><br/>
 
-<br/>
+<!-- GenAI -->
+<h3>🧠 GenAI & Agentic Systems</h3>
 
-<!-- DevOps & Tools -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode"/>
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary"/>
+<img src="https://img.shields.io/badge/LLMs-5B21B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embeddings-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector_Search-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agentic_Systems-4338CA?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-3730A3?style=flat-square"/>
 
-<br/>
+<br/><br/>
 
-<!-- CS Core -->
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1F2937?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-1E3A8A?style=for-the-badge"/>
+<!-- DevOps -->
+<h3>🚀 DevOps & Tools</h3>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square"/>
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary"/>
+
+<br/><br/>
+
+<!-- Core -->
+<h3>📚 Core CS</h3>
+
+<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-1F2937?style=flat-square"/>
+<img src="https://img.shields.io/badge/OOP-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/DBMS-1E3A8A?style=flat-square"/>
 
 </div>
-
 ---
 ## 🚀 Flagship Projects
 

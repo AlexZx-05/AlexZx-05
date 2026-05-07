@@ -148,7 +148,7 @@ Python · FastAPI · LangChain · OpenAI API · SQLModel · APScheduler · Chrom
 
 ---
 
-<h3>🏡 Land Registry DApp 
+<h3>Land Registry DApp 
 <a href="https://github.com/AlexZx-05/land-registry-dapp.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/></a>
 <a href="https://drive.google.com/file/d/1RMH0Tw_7PXsU0pHkg0WWPc3GfsWt8tFk/view?usp=sharing"><img src="https://img.shields.io/badge/Demo_Video-0A66C2?style=flat&logo=google-drive&logoColor=white"/></a>
 </h3>
@@ -170,24 +170,27 @@ React · Vite · Node.js · Express · MongoDB · Solidity · Hardhat · OpenZep
 - 🧩 Production-Style Architecture — Modular frontend, backend, blockchain, and AI services  
 
 ---
-
-<h3>🎓 AIMS Connect — Academic Mentorship Platform 
-<a href="https://github.com/AlexZx-05/aims_reimagined.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/></a>
-<a href="https://aims-reimagined.vercel.app/"><img src="https://img.shields.io/badge/Live-0A66C2?style=flat&logo=netlify"/></a>
+<h3>Smart Campus System 
+<a href="https://github.com/AlexZx-05/smart-campus-system.git"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/></a>
+<a href="https://drive.google.com/file/d/1MoykF2Rx-kDCPzKScSSWKLYLxVxo-InG/view?usp=sharing"><img src="https://img.shields.io/badge/Demo_Video-0A66C2?style=flat&logo=google-drive&logoColor=white"/></a>
 </h3>
 
-Live academic system used by IIIT Raichur  
+ERP-style full-stack campus management and timetable automation platform  
 
-A full-stack platform that improves mentor discovery, faculty navigation, and academic guidance for students.
+A secure multi-role university management system that streamlines timetable planning, room allocation, announcements, academic workflows, and campus coordination through centralized dashboards and role-based access control.
 
 **🛠 Tech Stack**  
-React · Node.js · MongoDB · Express · Netlify
+React · Vite · Tailwind CSS · Flask · SQLAlchemy · JWT · SQLite
 
 **✨ Key Features**
-- 🔍 Mentor Matching System — Students find suitable faculty mentors  
-- 📚 Academic Navigation — Centralized access to resources and advisors  
-- 🚀 Deployed for Real Users — Used by IIIT Raichur community  
-
+- 🔐 Secure Role-Based Authentication — Separate access for Student, Faculty, and Admin  
+- 📊 Multi-Dashboard System — Dedicated dashboards for students, faculty, and administrators  
+- 🗓 Timetable Management Workflow — Faculty preference submission with draft generation and publish flow  
+- 🏢 Room Allocation & Live Status — Smart room management with conflict tracking and availability monitoring  
+- 📢 Campus Communication System — Admin announcements and targeted messaging to users  
+- 👥 User Management Panel — Admin controls for managing users, profiles, and permissions  
+- ⚠️ Conflict Detection & Resolution — Tracks timetable and room allocation conflicts  
+- 📅 Calendar & Event Scheduling — Centralized academic and campus event management  
 
 ---
 
